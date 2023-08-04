@@ -1,0 +1,80 @@
+footer{
+    margin : 50px 0 300px 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.row-keys__top {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width : 60vw;
+    height : 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin:5px;
+}
+.top-column {
+    
+    font-weight: bold;
+    font-size: 20px;
+    margin :2px;
+    padding : 4px 3px 4px 3px;
+    border : 1px solid grey;
+
+}
+
+.row-key__middle {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width : 60vw;
+    height : 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin:5px;
+}
+.middle-column {
+    font-weight: bold;
+    font-size: 20px;
+    margin :2px;
+    padding : 4px 3px 4px 3px;
+    border : 1px solid grey;
+
+}
+
+.row-key__bottom {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width : 60vw;
+    height : 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin:5px;
+}
+.bottom-column {
+    font-weight: bold;
+    font-size: 20px;
+    margin :2px;
+    padding : 4px 3px 4px 3px;
+    border : 1px solid grey;
+}
+.enterkey {
+    font-size: 1px;
+    margin :2px;
+    padding : 10.5px 6px 10.5px 6px;
+    border : 1px solid grey;
+}
+.backspacekey {
+    width : 20px;
+    height : 14px;
+    padding : 7px 10px 13px 8px;
+    margin :2px;
+    border : 1px solid grey;
+}
